@@ -1,3 +1,6 @@
+# React-Native---Capacita-o
+Repositório de estudos em React Native, desenvolvido durante a capacitação da Unect para praticar a criação de aplicativos mobile e aprimorar minhas habilidades.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
